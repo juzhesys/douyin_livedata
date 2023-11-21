@@ -10,4 +10,8 @@
 2. 实时获取直播间的数据，如礼物，点赞，评论，关注，进入直播间
 3. 直接数据导出，用于下一步营销动作。
 
+## 界面
 <img width="963" alt="002" src="https://github.com/juzhesys/douyin_livedata/assets/151597488/010864dd-dd41-46ba-a749-614fab855e67">
+
+## 联系
+<img width="542" alt="wechat" src="https://github.com/juzhesys/douyin_livedata/assets/151597488/ad4b1683-bef5-4233-b836-87d270f6278f">
