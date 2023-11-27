@@ -13,5 +13,9 @@
 ## 界面
 <img width="963" alt="002" src="https://github.com/juzhesys/douyin_livedata/assets/151597488/010864dd-dd41-46ba-a749-614fab855e67">
 
+## 自动发私信
+<img width="1052" alt="image" src="https://github.com/juzhesys/douyin_livedata/assets/151597488/fa83a738-e02c-4c73-90db-8b5cc4fef563">
+
+
 ## 联系
 <img width="542" alt="wechat" src="https://github.com/juzhesys/douyin_livedata/assets/151597488/ad4b1683-bef5-4233-b836-87d270f6278f">
